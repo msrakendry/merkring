@@ -1,0 +1,2 @@
+# merkring
+my frist bloge 
