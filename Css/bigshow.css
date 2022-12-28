@@ -1,0 +1,84 @@
+
+/**********************end styling ************************/
+
+
+.whitero{
+  color: #fff m !important;
+}
+
+  
+.activeBIG {
+   border: 3px solid #070707;
+  transition: border .5s ease-in;
+
+}
+/*****************************************start*fristz-slide-images************************************************/
+
+#frbigSHOW1sec{
+    width:  100%;
+    margin: 0 0 30px 0;
+    padding: 0px;
+    position: relative;
+    top: ;
+
+}
+
+.frBIGshowIMAGEarti {
+  position:etlative;
+  width: 100%;
+  height: 28rem;
+  
+  box-shadow: 0rem 0.2rem 2rem rgba(32, 35, 218, 0.5);
+  
+  overflow: hidden;
+  border-radius: 1%;
+
+}
+
+.joapiter{
+    position: absolute;
+    border-radius: 7px;
+    display: fl ex;
+    width:100%;
+    padding: 0;
+    margin: 0px auto;
+    transition: display  1s  ease-in    0.4s     ;
+    cursor: grabbing;
+  }
+
+
+.bigSHOW1imSET {
+    width: 8800px;
+    max-width: 100%;
+    height: 450px;
+    max-height: 100%;
+    display: block;
+    object-fit: cover;
+    padding-top:8px ;
+    
+    
+  }
+
+  #bigCONTAINbut {
+      top: 410px;
+      left: 43%;
+      width: 100px;
+      height: 100px;
+      position: relative;
+      transform: translateX(-50%);
+      display: inline;
+    
+  }
+  
+
+  .bigSHOWbut {
+    height:5px ;
+    width:28px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+  }
+
+  
+ 
+
+/******************************************************end*slide-images************************************************/

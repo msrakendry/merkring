@@ -1,0 +1,417 @@
+@import url(" ");
+
+
+
+/************************************ end arrew set******************************************/
+
+/* Hide the images by default */
+.mySl1_toscript {
+    display: none;
+  }
+  
+/* Slideshow container */
+.slideFR {
+    max-width:1800px ;
+    position: relative;
+    margin: auto;
+  }
+  
+/* Next & previous buttons */
+.prevFR1, .nextFR1 {
+    width: 16px ;
+    height:16px  ;
+    cursor: pointer;
+    position: absolute;
+    top: 53%;
+    width: auto;
+    margin-top: -22px;
+    padding: 15px;
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+
+/* Position the "next button" to the right */
+.nextFR1 {
+    margin: 20px 20px 0 0;
+    right: 0;
+    border-radius: 3px 0 0 3px;
+    color: #0deb32;
+  }
+ 
+  .prevFR1 {
+    margin: 20px 0 0 40px;
+    border-radius: 3px 0 0 3px;
+    color: #0deb32;
+ }
+
+ /*
+.prevFR1set{
+     background-color: #373737;
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    border: 2px rgb(16, 7, 1) solid;
+}
+*/
+  /* On hover, add a black background color with a little bit see-through */
+  .prevFR1:hover, .nextFR1:hover {
+    background-color: rgba(91, 87, 87, 0.8);
+  }
+
+
+
+
+/* The dots/bullets/indicators */
+.butPROSH{
+    display: none;
+}
+.dotFR1 {
+
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+
+/* Number text (1/3 etc) */
+.nutext1 {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 0;
+     float:  ;
+    top: 0;
+  }
+
+  .active, .dotFR1:hover {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fadeFR1 {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @keyframes fade {
+    from {opacity: .2}
+    to {opacity: 1}
+  }
+
+/************************************ end arrew set******************************************/
+
+.frSlul1 .prFRsli1p{
+     display: none;
+    height: 1000px;
+    box-shadow :#14f557  2px ;
+    transition: box-shadow .25s ease,border .25s ease;
+
+}
+
+.frSlul1 {
+    display:flex  ;
+    list-style:none
+ 
+    
+}
+
+.frsliLI1 {
+    margin:0;
+    padding:3px;
+    box-sizing:border-box
+    } 
+
+.frSLIart1{
+    background:rgb(253, 251, 251);
+    position:relative;
+    padding:0;
+    min-height:100%;
+    box-shadow: #b6b4b4 0 0 5px;
+    
+}
+
+
+.frSLIart1:hover{
+    box-shadow: #555353 0 0 5px;
+
+
+}
+
+
+
+
+
+.frSLI_artDI1{
+    padding:.9375rem .9375rem 4.0625rem .9375rem;
+
+}
+    
+.frSLI_a1{display:block;margin-bottom:5px}
+
+    
+.frSLIdiv_beIMAME{padding-top:56.25%;position:relative;display:block}
+
+.frSLIdiv_beIMAME{
+    padding-top:56.25%;position:relative;display:block;
+
+}
+
+.frSLIdiv_beIMAME img{
+    position:absolute;top:0;left:0;width:100%;height:100%;display:block;
+}
+
+.frSLIdiv_beIMAME img[
+    loading="lazy"]{color:rgb(56, 50, 50);
+    }
+
+.frSLIseIN{padding-top:100%} 
+
+.fiSDLimHOVER{opacity:0;transition:opacity .25s ease}
+
+.fiSLIDpproIM{padding:10px 7px 0 7px}
+
+.frSLIh2SET{
+    font-size:1rem;
+    font-weight:600;
+    color:#373737;
+    text-decoration:none;
+    display:block;
+    margin: 0;
+
+}
+
+.fiSLIDp1{
+    font-size: 1.1rem;
+    line-height: 1.625rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color:rgb(56, 50, 50) ;  
+
+}
+
+
+
+
+.fiSLIDp1 .fiSLIDp1pence{
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color:rgb(56, 50, 50);   
+    padding: 0 ;
+
+}
+
+.fiSLIDp2{
+    margin:0 5px;
+    color:rgb(56, 50, 50);   
+    font-size:1.25rem;
+    line-height:1.625rem;
+}
+
+
+
+/*
+.fiSLIDpspan{
+    height:0;
+    left:-9999px;
+    margin:0;
+    padding:0;
+    position:absolute;
+    text-indent:-9999px;
+    width:0;z-index:-1
+ 
+}
+
+*/
+
+.fiSLIDp3{
+    font-size:.875rem;
+    line-height:1.25rem;
+    display:inline-block;
+    color:rgb(56, 50, 50);   
+    margin:0;
+    padding:0;
+}
+
+.fottFRSLID{
+    margin:0;padding:23px 0 0 0;
+}
+
+.SLIDrating {
+    padding-left: 70px;
+    position: relative;
+    line-height: .8125rem;
+    color: #f1f3f3;
+    font-size: .75rem;
+    min-height: 13px;
+    box-sizing: border-box;
+}
+
+
+.FRSLIDstart {
+    height: 100%;
+    width: 65px;
+    display: block;
+    background: url("../Images/iconmonstr-star-3.svg") repeat-x 0 0;
+    position: absolute;
+    top: 0;
+    height: 13px;
+    left: 0;
+    color: #00abee ;
+    background-size: 13px 13px;
+}
+
+.FRSLIDtotalRAT{
+    color:rgb(56, 50, 50);   
+}
+
+
+.FRSLIDOVERLaYciecle{
+    position:absolute;
+    top:-6px;left:-6px;
+    top:23px;left:23px;
+}
+ 
+.frSLIdeliveryP{
+    color: #f6f3f3;
+
+}
+
+.overlayfrSLI {
+    background:#297c9d;
+    border-radius:100%;
+    box-sizing:border-box;
+    color:#fff;
+    display:none;
+    font-size:.875rem;
+    font-weight:600;
+    height:4rem;
+    line-height:.9375rem;
+    margin:0;
+     padding:15px 2px 2px 2px;
+    text-align:center;
+    text-transform:uppercase;
+    width:4rem;
+    z-index:3;
+    transform:scale(.7);
+    transform:scale(1);
+}
+
+.overlayfrSLIin{
+    background:#1c86bf;
+    display:block;
+
+}
+
+.overlayfrSLI .brs1{
+    display:block;
+    margin:0;
+    padding:0;
+    color:rgb(212, 67, 137) ;
+}
+
+
+.frSLIdel{
+    min-height:0;
+    margin:10px 0 0 0;
+}
+
+
+
+.FIslid {
+    margin:0;
+    padding:23px 0 0 0;
+}
+
+
+.frSLIdon{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    display: block;
+    bottom: 15px;
+    left: 15px;
+    right: 15px;
+}
+
+ 
+ 
+.frSLIdon:hover{
+    opacity: 0.7;
+  }
+
+
+
+  .frSLIdonBUT{
+    display:inline-block;
+    margin:0;padding:0 20px;
+    height:2.5rem;
+    line-height:2.5rem;
+    background:#315062;
+    color:#fff;
+    font-size:.9375rem;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+    box-sizing:border-box;
+    text-align:center;
+    border:0;
+    font-family:"Source Sans Pro",Trebuchet MS,Helvetica,Arial,Verdana,sans-serif
+}
+
+.frSLIdonBUT {
+    transition: background 0.25s ease;
+}
+
+.frSLIdonBUTin {
+    width: 100%;
+}
+
+
+.isOffscreenFRsli{
+    height:0;
+    left:-9999px;
+    margin:0;
+     padding:0;
+    position:absolute;
+    text-indent:-9999px;
+    width:0;z-index:-1
+}
+
+
+
+
+/*************************************delivery--car--icon******************************************/
+.frSLIdelIMAE {
+    background-image: url("../Images/logistics-delivery-truck-in-movement-svgrepo-com.svg");
+    padding-left: 40px;
+}
+
+
+
+
+.FIslid {
+    margin: 0;
+    padding: 0;
+    font-size: .75rem;
+    line-height: 1.125rem;
+    color: #707070;
+    background: url("../Images/logistics-delivery-truck-in-movement-svgrepo-com.svg") no-repeat 0 2px;
+    background-size: auto 15px;
+    min-height: 17px;
+    padding-left: 32px;
+}
+ 
+    @media(hover){a:hover img{opacity:1}}
+ 

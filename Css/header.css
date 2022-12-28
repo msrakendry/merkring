@@ -1,0 +1,714 @@
+@import url("GLOO/global-Style.css");
+
+
+ #setMAIN{
+  position: relative;
+  top: 40px;
+ }
+  
+/****************************start hover with underline **********************************/
+.Header__N1 .heFr_ul1 .heFr_li_But:hover .set_heFr_li_But_frDi {
+  display: block !important;
+  opacity: 1 ;
+  visibility: visible;
+  translate:visibility 0.3s ease-in;
+ }
+
+.z_hover:hover {
+  color: rgb(20, 3, 39) !important;
+  background: none rgba(255, 255, 255, 0.1);
+  border: none;
+  padding: 0px;
+  transition: background-color 300ms ease-in-out 0s;
+
+}
+.frULa:hover{
+  color: #0b022e;
+}
+.Elli-psisM .idhROZ .mega_set1 :hover span {
+  padding-right: 25px;
+}
+.searchbox-icon:hover{
+  color: #0e0d0d  ;
+}
+.Elli-psisM .idhROZ .mega_set1 :hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.heNa2Div1 .header_ul_sub_1 .heSlideHo:hover{
+  background-color: #5799f1;
+  border-radius: 2px;
+  color: #1a1515;
+
+
+}
+
+.heFr_li_But:hover .heFr_liButSet {
+  color: #0b022e;
+  fill: #0b022e ;
+}
+
+.heFr_li_But:hover {
+  background-color: #340e38;
+  background: none rgba(255, 255, 255, 0.1);
+  border: none;
+  padding: 0px;
+  color: rgb(255, 255, 255);
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 2.75rem;
+  transition: background-color 300ms ease-in-out 0s;
+
+}
+
+.seHeLo:hover{
+  opacity: .7;
+}
+
+.sinup_hover:hover{
+
+border: 2px solid rgba(245, 245, 245, 0.877);
+transition: background-color 300ms ease-in-out 0s;
+background: none rgba(255, 255, 255, 0.1);
+
+
+}
+
+
+
+.login_hover:hover{
+ background: radial-gradient(circle, rgb(59, 6, 40) 0%, rgb(175, 236, 184) 100%);
+border: 2px solid rgba(245, 245, 245, 0.877);
+transition: background-color 300ms ease-in-out 0s;
+color: #03010c;
+
+
+}
+
+
+.search_set:hover {
+transition: background-color 300ms ease-in-out 0s;
+background: none rgba(16, 2, 80, 0.1);
+border-radius: 2.75rem;
+cursor:pointer;
+
+}
+
+ 
+ #__nex{
+    width: 100%;
+ 
+ }
+ 
+
+ #main-cont{
+    margin: 0px auto;
+    padding: 0;
+ }
+
+ 
+
+.set_globsal{
+  margin:0 15px 0 0 ;
+}
+/*******************************************start--headerz****************************************/
+
+
+.border-gradient-rounded {
+  /* Border */
+  border: 4px solid transparent;
+  border-radius: 20px;
+  background: 
+    linear-gradient(to right, white, white), 
+    linear-gradient(to right, red , blue); 
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  
+  /* Other styles */
+  width: 100px;
+  height: 40px;
+  padding: 12px;
+}
+.inDIli {
+  font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+}
+
+ 
+.frULa {
+    color: rgb(204, 210, 222);
+    transition: color 500ms ease 0s, background-color 500ms ease 0s;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    position: relative;
+    width: 100%;
+
+
+    font-style: normal;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+}
+
+.holder_header {
+    display: flex;
+    margin: 0px auto;
+    width: 100%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    z-index: 100 ;
+
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+
+    position: relative ;
+    top: 34.4px;
+
+ }
+
+
+ .stFrHadi {
+    position: relative;
+    box-sizing: content-box;
+     max-width: 80rem;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 0px 1rem;
+    width: 100%;
+    height: 4.75rem;
+    font-size: 1rem;
+}
+
+.heFrDiMe_nu1 {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.heFr_ul1 {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 1rem;
+}
+.heFr_li {
+  min-width: 4.75rem;
+  margin-right: 1.25rem;
+  display: inline-block;
+}
+
+
+
+.heFr_ulLia {
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5rem;
+      color: rgb(204, 210, 222);
+      transition: color 500ms ease 0s, background-color 500ms ease 0s;
+      cursor: pointer;
+      display: flex;
+      -webkit-box-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      justify-content: center;
+      padding: 0.25rem 0.5rem;
+      border-radius: 0.25rem;
+      position: relative;
+      width: 100%;
+}
+
+.heFr_li_But {
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  
+  
+}
+.heFr_li_But svg {
+  border-radius: 4px;
+  transition: background-color 0.3s ease 0s;
+  color: rgb(255, 255, 255);
+}
+
+.heFr_liButSet {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  height: 100%;
+  padding: 0px 0.75rem;
+  margin-right: 0.5rem;
+}
+
+.set_heFr_li_But_frDi {
+  display:  block  !important;
+   opacity: 1  ;
+  visibility: hidden    ;
+}
+
+
+
+
+.heFr_li_But_frDi {
+  position: absolute;
+  display: flex;
+  margin: 0px auto;
+  top: 0px;
+  left: -41.50rem;
+  width: auto;
+  padding-top: 3rem;
+}
+ 
+.heFr_li_But_frDi::before {
+  content: "";
+  border-style: solid;
+  border-width: 0px 0.75rem 0.75rem;
+  border-color: transparent transparent rgb(255, 255, 255);
+  position: absolute;
+  top: -0.75rem;
+  left: 42.1rem;
+  margin: 0px auto;
+  width: .2rem;
+  padding-top: 3rem;
+}
+.heNa2Div1 {
+
+  border: 0.125rem solid rgb(255, 255, 255);
+background-image: url("../images/D0.webp");
+  box-shadow: rgb(29 30 32 / 40%) 0.75rem 1.5rem 4rem;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 1.5rem;
+  width: 82.59rem;
+ }
+
+
+ .heNa2Di {
+  margin-right: 1.25rem;
+  width: auto;
+  /* display: flex; */
+}
+
+ 
+.heNa2_pTit {
+  font-weight: 600;
+   margin-bottom: 1.25rem;
+  text-transform: capitalize;
+  font-size: 1.125rem;
+  line-height: 1.5rem;
+  height: 26px;
+  color: #766ff5 !important;
+  text-align: center;
+}
+ 
+.header_ul_sub_1 {
+  display: inline;
+}
+
+.heLi2Set a{
+  color: #fff !important;
+}
+
+.heLi2Set {
+  margin-bottom: 1rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+}
+
+.he_ulLi2_a {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: right 0.1875rem top 0.5625rem;
+  border-radius: 0.25rem;
+  color: rgb(239, 241, 244);
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin: 0px -0.25rem;
+  padding: 0.25rem 0.5rem;
+  position: relative;
+  transition: background 300ms ease 0s, color 300ms ease 0s, padding-right 300ms ease 0s;
+  white-space: nowrap;
+}
+
+
+.he_ulLi2_a span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+
+
+.lasHeDiSet {
+  width: 100%;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+}
+
+.seLOin{
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  
+}
+
+
+.heDi2 {
+  position: relative;
+  height: 2.75rem;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding:0 30px  0 0;
+}
+
+.heDi2_set {
+  margin-left: auto;
+  max-width: 22rem;
+}
+
+
+.kvQKhY > * + :not(:last-child), .kvQKhY > :first-child {
+  margin-right: 1.25rem;
+}
+
+.logIn_set {
+
+  
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border-radius: 0.5rem;
+  border: 0.125rem solid rgb(255, 255, 255);
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  white-space: nowrap;
+  color: rgb(255, 255, 255);
+  background: none;
+  padding: 0.625rem 0.875rem;
+  font-size: 0.875rem;
+  line-height: 143%;
+  width: auto;
+  margin:0 25px 0 0 ;
+
+
+}
+.singinUp_set {
+
+  font-weight: 500;
+  width: 100%;
+  color: white;
+  font-size: 1rem;
+
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+  font-style: normal;
+
+
+
+
+  border-radius: 0.5rem;
+  border: 0.125rem solid transparent;
+  cursor: pointer;
+  background: rgb(255, 255, 255);
+  padding: 0.625rem 0.875rem;
+
+
+
+  /*
+
+display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    border-radius: 0.5rem;
+    border: 0.125rem solid rgb(255, 255, 255);
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    white-space: nowrap;
+    color: rgb(255, 255, 255);
+    background: none;
+    padding: 0.625rem 0.875rem;
+    font-size: 0.875rem;
+    line-height: 143%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  display: inline-flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  border-radius: 0.5rem;
+  border: 0.125rem solid transparent;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  white-space: nowrap;
+  color: rgb(18, 29, 51);
+  padding: 0.625rem 0.875rem;
+  font-size: 0.875rem;
+  line-height: 143%;
+  width: auto;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  */
+}
+ 
+.MuHe-humDi1 {
+  height: 100%;
+  position: relative;
+  display: none;
+  cursor: pointer;
+}
+
+.humDi_set {
+  padding: 0.5rem;
+}
+
+.humBut1, .humBut2 {
+  appearance: none;
+  background: none;
+  border: none;
+  height: 1.4rem;
+  padding: 0px;
+  transform: rotate(0deg);
+  transition: transform 500ms ease 0s;
+  min-width: 1.5rem;
+  color: rgb(255, 255, 255);
+  outline: none;
+  cursor: pointer;
+  z-index: 1;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.hum_hi2  {
+  display: none;
+  margin-left: 1.25rem;
+}
+ 
+    /*---------------------------------------start--logoz------------------------------------*/
+
+
+.seHeLo {
+    flex-shrink: 0;
+    margin-right: 1.5rem;
+    margin-right: 0.5rem;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    }
+    
+    .logo {
+      padding: 0;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-size: cover;
+      border: 3px solid #fff;
+      text-decoration: none;
+      font-weight: 900;
+      font-size: 1.1em;
+      line-height: 1;
+      vertical-align: middle;
+      margin-right: 1.5rem;
+      color: rgb(255, 255, 255);
+      flex-shrink: 0;
+      margin-right: 0.5rem;
+      }
+
+
+
+
+  .log_cont{
+    margin:0 -15px 0 0 ;
+
+  }
+      
+    /*---------------------------------------end--logoz------------------------------------*/
+ 
+
+/*---------------------------------------------start--searchz------------------------------------*/
+
+  
+  
+  .search_set{
+    width:  15rem;
+    float: right;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    cursor:pointer;
+
+}
+
+  .searchbox {
+    position: relative;
+    height: 40px;
+    min-width: 40px;
+    width: 0%;
+    float: right;
+    overflow:hidden;
+    border-radius: 42px;
+    padding: 0;
+    margin: 0;
+   -webkit-transition: width 0.3s;
+   -moz-transition: width 0.3s;
+   -ms-transition: width 0.3s;
+   -o-transition: width 0.3s;
+   transition: width 0.3s;
+   transition: background-color 300ms ease-in-out 0s;
+   background: none rgba(255, 255, 255, 0.1);
+   color: rgb(255, 255, 255);
+   cursor:pointer;
+
+  }
+  
+  
+  .searchbox-input {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:0 42px 0 15px   ;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    outline: 0;
+     width: 100%;
+    height: 40px;
+    margin: 0;
+    font-size: 20px;
+    color: #080808a6;
+    border-radius: 40px;
+    cursor:pointer;
+    transition: background-color 300ms ease-in-out 0s;
+    background: none rgba(255, 255, 255, 0.1);
+
+  }
+  
+  .searchbox-icon {
+    border-radius: 50%;
+   width:40px;
+   height:40px;
+   display:block;
+   position:absolute;
+   top:0;
+   font-family:verdana;
+   font-size:22px;
+   right:0;
+   margin:0;
+   border:0;
+   outline:0;
+   line-height:50px;
+   text-align:center;
+   cursor:pointer;
+   transition: background-color 300ms ease-in-out 0s;
+   background: none rgba(255, 255, 255, 0.1);
+   color: rgb(255, 255, 255);
+   
+
+
+  }
+  
+
+  .searchbox-input::-webkit-input-placeholder {
+    color: #663cc9;
+    cursor:pointer;
+
+   }
+   .searchbox-input:-moz-placeholder {
+    color: #3f3030;
+    cursor:pointer;
+
+   }
+   .searchbox-input::-moz-placeholder {
+    color: #1b4e3f;
+    cursor:pointer;
+
+   }
+   .searchbox-input:-ms-input-placeholder {
+    color: #1a1515;
+    cursor:pointer;
+
+   }
+   
+
+  .searchbox-open{
+    margin: 0;
+    padding: 0;
+    width:100%;
+    cursor:pointer;
+
+
+   }
+   
+
+
+
+
+
+
+
+/*---------------------------------------------start--searchz------------------------------------*/
+
+

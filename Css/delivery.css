@@ -1,0 +1,307 @@
+@media screen and (min-width: 980px){
+    .c-usps {
+        text-align: left;
+        padding: 15px 0;
+    }
+    }
+    @media screen and (min-width: 980px){
+    .c-usps {
+        background: #f0f0f0;
+    }
+    }
+    .c-usps {
+         padding: 10px 0;
+        font-size: .75rem;
+        text-align: center;
+        max-height: 56px;
+    }
+    
+     
+    .lPage {
+        background: #fff;
+        margin: 0 auto;
+        padding: 0;
+        text-align: left;
+    }
+    
+    
+    ::selection {
+        background: #00abee;
+        color: #fff;
+    }
+    
+    
+    
+    @media screen and (min-width: 980px){
+    .c-usps__inner {
+        height: auto;
+        overflow: visible;
+    }
+    }
+    .c-usps__inner {
+        position: relative;
+        overflow: hidden;
+        height: 2rem;
+    }
+    
+    
+    @media screen and (min-width: 980px){
+    .c-usps {
+        text-align: left;
+        padding: 15px 0;
+    }
+    }
+    .c-usps {
+         padding: 10px 0;
+        font-size: .75rem;
+        text-align: center;
+        max-height: 56px;
+    }
+    .lPage {
+        background: #fff;
+        margin: 0 auto;
+        padding: 0;
+        text-align: left;
+    }
+    
+   
+    
+    @media screen and (min-width: 980px){
+    .c-usps {
+        text-align: left;
+        padding: 15px 0;
+    }
+    }
+
+    @media screen and (min-width: 980px){
+    .c-usps__list {
+        display: flex;
+        max-width: 1010px;
+        padding: 0 10px;
+        transform: none!important;
+        justify-content: center;
+    }
+    }
+    
+    
+    .c-usps__list {
+        list-style: none;
+        padding: 0 ;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    @media screen and (min-width: 980px){
+    .c-uspslist-item {
+        width: auto;
+        flex: 1;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+    }
+    
+   .js-usp-slider-track ul .c-uspslist-item {
+        margin: 0 20px 0 0;
+    }
+    .c-uspslist-item {
+        width: 100%;
+    }
+    
+    ul li {
+        padding: 0 0 5px 0;
+    }
+    
+    @media screen and (min-width: 980px){
+    .c-usps__link {
+        display: flex;
+    }
+    }
+    
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    .c-icon {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    
+    .c-usps__icon {
+        display: inline-block;
+        vertical-align: middle;
+        width: 30px;
+        height: 26px;
+        margin-right: 5px;
+    }
+
+    @media screen and (min-width: 980px){
+    .c-usps__link {
+        color: #315062;
+         width: 263px;
+    }
+    }
+    .c-usps__link {
+        text-decoration: none;
+        color: #fff;
+        transition: color 300ms;
+    }
+    
+    .c-usps__link-content {
+        display: inline-block;
+        vertical-align: middle;
+        line-height: 1.15;
+        margin-left: 6px;
+    }
+    
+     
+    @media screen and (min-width: 980px){
+    .c-usps__link {
+        color: #315062;
+    }
+    }
+    
+    
+    
+    .c-usps__title {
+        display: block;
+        font-weight: 700;
+    }
+    
+    .clearfix:after, .formWrapper:after, .formRow:after, .formAction:after, .cms:after {
+        clear: both;
+        content: "";
+        display: block;
+        font-size: 0;
+        height: 0;
+        visibility: hidden;
+    }
+    
+
+    .js-usp-slider-track ul .c-uspslist-item:hover {
+         opacity: .8;
+         
+    }
+
+   /*
+    ul .c-usps__list-item:hover  .c-usps__link{
+        color: #29053f;
+        font-weight: bold;
+     }
+
+     ul .c-usps__list-item:hover  .c-usps__link-content{
+         color: #29053f;
+         font-weight: bold;
+      }
+/*******************************************************/
+
+@media screen and (min-width: 980px){
+    .c-features {
+        contain-intrinsic-size: auto 401px;
+    }
+    }
+    @media screen and (min-width: 980px){
+    .c-features__inner {
+        padding: 60px 0;
+    }
+    }
+    .c-features__inner {
+        padding: 20px 0;
+    }
+    .l-container--with-grid {
+        max-width: 1605px;
+    }
+    .l-container {
+        max-width: 1565px;
+        margin: 0 auto;
+    }
+    
+    
+    .l-grid {
+        display: flex;
+        flex-direction: row;
+        /*
+        flex-wrap: wrap;
+    */
+    }
+    @media screen and (min-width: 540px){
+    .l-grid__col--t33 {
+        width: 33.33%;
+    }
+    }
+    .l-grid__col1 {
+        padding: 0 10px 0 0;
+        box-sizing: border-box;
+        width: 34%;
+    }
+    .l-grid__col2 {
+        padding: 0 10px 0 0;
+        box-sizing: border-box;
+        width: 34%;
+    }
+
+    .l-gridcol1 {
+        padding: 0 10px 0 0;
+        box-sizing: border-box;
+        width: 34%;
+    }
+    .l-gridcol2 {
+        padding: 0 0 0 0;
+        box-sizing: border-box;
+        width: 34%;
+    }
+
+    .cimage {
+        padding-top: 56.25%;
+        position: relative;
+        display: block;
+    }
+    .cimage--feature {
+         padding-top: 56.7676767677%; 
+    }
+    
+    .cimage img {
+        position: absolute;
+        top: 0;
+        /* left: 0; */
+        width: 100%;
+        height: 100%;
+        /* display: block; */
+    }
+     
+.l-container--with-grid {
+    max-width: 1605px;
+}
+
+.l-container {
+    max-width: 1565px;
+    margin: 0 auto;
+}
+ 
+.cimage img[loading=lazy] {
+    color: #fff;
+}
+
+.l-grid__col--t33:hover{
+    opacity: .8;
+}
+ 
+ 
